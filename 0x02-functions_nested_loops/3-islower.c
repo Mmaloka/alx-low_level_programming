@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _islower - prototype for the task
+ * c - the variable
  * Return: 0
  */
 int _islower(int c)
