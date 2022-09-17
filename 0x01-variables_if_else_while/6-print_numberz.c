@@ -5,12 +5,12 @@
  */
 int main(void)
 {
-	int _ = 0;
+	int num = 0;
 
-	for (_ = 0; _ <= 9; _++)
+	for (num = 0; num <= 9; num++)
 	{
-		putchar(_);
+		putchar(num);
 	}
-	putchar(10);
+	putchar('\n');
 	return (0);
 }
