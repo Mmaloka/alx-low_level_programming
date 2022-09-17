@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _islower - prototype for the task
+ * _islower - prototype for the task
  * Return: 0
  */
 int _islower(int c)
