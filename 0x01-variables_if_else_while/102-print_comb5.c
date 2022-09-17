@@ -14,8 +14,8 @@ int main(void)
 		{
 		if (n1 > n)
 		{
-			putchar( n / 10 + '0');
-			putchar( n % 10 + '0');
+			putchar(n / 10 + '0');
+			putchar(n % 10 + '0');
 			putchar(' ');
 			putchar(n1 / 10 + '0');
 			putchar(n1 % 10 + '0');
