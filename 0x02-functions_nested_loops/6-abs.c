@@ -1,7 +1,11 @@
 #include "main.h"
 /**
- * int _abs - protoype for project
+ *
+ * _abs - prototype for for task
+ *
  * @a: value of interger
+ *
+ * Return: absolute value
  */
 int _abs(int a)
 {
